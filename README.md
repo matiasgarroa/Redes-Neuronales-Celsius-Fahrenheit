@@ -29,10 +29,10 @@ Mejorar el modelo: Si es necesario, mejoramos el modelo ajustando los parámetro
 Utilizar el modelo: Una vez que hemos obtenido un buen rendimiento en el conjunto de datos de prueba, podemos utilizar el modelo para realizar conversiones de temperatura.
 
 
-# ¿Por qué desarrollé este proyecto? </br>
+### ¿Por qué desarrollé este proyecto? </br>
 Porque desarrollar una pequeña red neuronal como esta es una forma excelente de aprender los conceptos básicos de la inteligencia artificial y el aprendizaje automático. Ademas de que este proyecto presenta un desafío apropiado para mí como principiante que está empezando a aprender acerca de las redes neuronales y tambien puedo mejorar mis habilidades de programación.
 
-# ¿Qué aprendí? </br>
+### ¿Qué aprendí? </br>
 Tuve la oportunidad de conocer la biblioteca Tensorflow, utilizada para implementar y desarrollar redes neuronales, modelos de procesamiento de lenguaje natural, sistemas de recomendación, entre otros. Tambien aprendí los conceptos básicos de la inteligencia artificial y el aprendizaje automático.
 
 ## Autor
